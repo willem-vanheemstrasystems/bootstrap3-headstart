@@ -23,6 +23,22 @@ Bootstrap uses LESS to compile CSS.
 
 See https://www.udemy.com/learn-responsive-web-development-from-scratch/learn/v4/t/lecture/770240
 
+##BS3_004: Clean & Clear template with Jumbotron
+
+See https://www.udemy.com/learn-responsive-web-development-from-scratch/learn/v4/t/lecture/770244
+
+##BS3_005: Clean & Clear template with Rows, Grids & Media Objects
+
+See https://www.udemy.com/learn-responsive-web-development-from-scratch/learn/v4/t/lecture/770246
+
+...
+
+##BS3_009: Clean & Clear template with Carousel & Collapse
+
+See https://www.udemy.com/learn-responsive-web-development-from-scratch/learn/v4/t/lecture/770262
+
+
+
 
 
 

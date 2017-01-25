@@ -1,0 +1,45 @@
+.top-bar{
+    height:5px;
+    background-color:#ca2129;
+    margin-bottom:1px;
+}
+
+.navbar{
+    margin-bottom:1px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    overflow:hidden;
+}
+
+.navbar-collapse li:hover{
+    background:#e7e7e7;
+}
+
+/* Jumbotron */
+.jumbotron{
+    background:#f4f4f4 url(../images/waterdrop.jpg) no-repeat 50% 0;
+    height:350px;
+	padding:0;
+}
+
+.jumbotron [class*="col-"] {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.2);
+    overflow:auto;
+    height:350px;
+}
+
+.jumbotron h1{
+	font-size:34px;
+	border-bottom:1px solid #ffffff;
+	padding-bottom:10px;
+}
+
+.jumbotron-content{
+    color:#ffffff;
+}
