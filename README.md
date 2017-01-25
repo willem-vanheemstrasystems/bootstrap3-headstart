@@ -31,6 +31,10 @@ See https://www.udemy.com/learn-responsive-web-development-from-scratch/learn/v4
 
 See https://www.udemy.com/learn-responsive-web-development-from-scratch/learn/v4/t/lecture/770246
 
+##BS3_006: Clean & Clear template with List Groups & Glyphicons
+
+See https://www.udemy.com/learn-responsive-web-development-from-scratch/learn/v4/t/lecture/770248
+
 ...
 
 ##BS3_009: Clean & Clear template with Carousel & Collapse (i.e. Accordion)

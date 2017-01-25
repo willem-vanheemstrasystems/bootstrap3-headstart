@@ -7,3 +7,15 @@
 .navbar li:hover {
     background: #e7e7e7;
 }
+
+li.register a{
+    background:#ca2129;
+    margin-bottom:-10px !important;
+    color:#ffffff !important;
+    padding-right:22px;
+    padding-left:22px;
+}
+
+li.register a:hover,.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+    background:#cccccc;
+}
