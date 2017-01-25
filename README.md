@@ -33,7 +33,7 @@ See https://www.udemy.com/learn-responsive-web-development-from-scratch/learn/v4
 
 ...
 
-##BS3_009: Clean & Clear template with Carousel & Collapse
+##BS3_009: Clean & Clear template with Carousel & Collapse (i.e. Accordion)
 
 See https://www.udemy.com/learn-responsive-web-development-from-scratch/learn/v4/t/lecture/770262
 
